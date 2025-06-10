@@ -1,0 +1,9 @@
+streamlit
+pdfminer.six
+spacy
+sentence-transformers
+openai
+qdrant-client
+python-dotenv
+docx2txt
+PyPDF2
